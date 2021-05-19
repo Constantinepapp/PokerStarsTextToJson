@@ -1,0 +1,1787 @@
+﻿PokerStars Παρτίδα #223621835993: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/09 23:50:07 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 15:50:07 ET]
+Τραπέζι '3120058440 4' 6-max Η θέση #1 είναι το button
+Θέση 1: LeoLucas2013 (3000 σε chips) 
+Θέση 2: Ploop16 (3000 σε chips) 
+Θέση 3: dkaz99 (3000 σε chips) 
+Θέση 4: wilviny (3000 σε chips) 
+Θέση 5: Mitsunari666 (3000 σε chips) 
+Θέση 6: APRO100PROA (3000 σε chips) 
+LeoLucas2013: βάζει το ante 4
+Ploop16: βάζει το ante 4
+dkaz99: βάζει το ante 4
+wilviny: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+APRO100PROA: βάζει το ante 4
+Ploop16: βάζει το small blind 15
+dkaz99: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [5c 2s]
+wilviny: raise 60 σε 90
+Mitsunari666: fold 
+APRO100PROA: fold 
+LeoLucas2013: fold 
+Ploop16: fold 
+dkaz99: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (60) επιστράφηκε στον wilviny
+wilviny μάζεψε 99 από  pot
+wilviny: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 99 | Rake 0 
+Θέση 1: LeoLucas2013 (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: Ploop16 (small blind) έκανε fold πριν Flop
+Θέση 3: dkaz99 (big blind) έκανε fold πριν Flop
+Θέση 4: wilviny απεκόμισε (99)
+Θέση 5: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: APRO100PROA έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223621855251: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/09 23:50:33 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 15:50:33 ET]
+Τραπέζι '3120058440 4' 6-max Η θέση #2 είναι το button
+Θέση 1: LeoLucas2013 (2996 σε chips) 
+Θέση 2: Ploop16 (2981 σε chips) 
+Θέση 3: dkaz99 (2966 σε chips) 
+Θέση 4: wilviny (3065 σε chips) 
+Θέση 5: Mitsunari666 (2996 σε chips) 
+Θέση 6: APRO100PROA (2996 σε chips) 
+LeoLucas2013: βάζει το ante 4
+Ploop16: βάζει το ante 4
+dkaz99: βάζει το ante 4
+wilviny: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+APRO100PROA: βάζει το ante 4
+dkaz99: βάζει το small blind 15
+wilviny: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [4d 9c]
+Mitsunari666: fold 
+APRO100PROA: fold 
+LeoLucas2013: fold 
+Ploop16: fold 
+dkaz99: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (15) επιστράφηκε στον wilviny
+wilviny μάζεψε 54 από  pot
+wilviny: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 54 | Rake 0 
+Θέση 1: LeoLucas2013 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: Ploop16 (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: dkaz99 (small blind) έκανε fold πριν Flop
+Θέση 4: wilviny (big blind) απεκόμισε (54)
+Θέση 5: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: APRO100PROA έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223621864394: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/09 23:50:46 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 15:50:46 ET]
+Τραπέζι '3120058440 4' 6-max Η θέση #3 είναι το button
+Θέση 1: LeoLucas2013 (2992 σε chips) 
+Θέση 2: Ploop16 (2977 σε chips) 
+Θέση 3: dkaz99 (2947 σε chips) 
+Θέση 4: wilviny (3100 σε chips) 
+Θέση 5: Mitsunari666 (2992 σε chips) 
+Θέση 6: APRO100PROA (2992 σε chips) 
+LeoLucas2013: βάζει το ante 4
+Ploop16: βάζει το ante 4
+dkaz99: βάζει το ante 4
+wilviny: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+APRO100PROA: βάζει το ante 4
+wilviny: βάζει το small blind 15
+Mitsunari666: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [8c 2h]
+APRO100PROA: fold 
+LeoLucas2013: fold 
+Ploop16: call 30
+dkaz99: fold 
+wilviny: fold 
+Mitsunari666: check 
+*** FLOP *** [Tc 9s 4h]
+Mitsunari666: check 
+Ploop16: ποντάρει 50
+Mitsunari666: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (50) επιστράφηκε στον Ploop16
+Ploop16 μάζεψε 99 από  pot
+Ploop16: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 99 | Rake 0 
+Ταμπλό [Tc 9s 4h]
+Θέση 1: LeoLucas2013 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: Ploop16 απεκόμισε (99)
+Θέση 3: dkaz99 (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: wilviny (small blind) έκανε fold πριν Flop
+Θέση 5: Mitsunari666 (big blind) έκανε fold στο Flop
+Θέση 6: APRO100PROA έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223621909969: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/09 23:51:46 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 15:51:46 ET]
+Τραπέζι '3120058440 4' 6-max Η θέση #4 είναι το button
+Θέση 1: LeoLucas2013 (2988 σε chips) 
+Θέση 2: Ploop16 (3042 σε chips) 
+Θέση 3: dkaz99 (2943 σε chips) 
+Θέση 4: wilviny (3081 σε chips) 
+Θέση 5: Mitsunari666 (2958 σε chips) 
+Θέση 6: APRO100PROA (2988 σε chips) 
+LeoLucas2013: βάζει το ante 4
+Ploop16: βάζει το ante 4
+dkaz99: βάζει το ante 4
+wilviny: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+APRO100PROA: βάζει το ante 4
+Mitsunari666: βάζει το small blind 15
+APRO100PROA: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [9c 5d]
+LeoLucas2013: fold 
+Ploop16: fold 
+dkaz99: fold 
+wilviny: raise 60 σε 90
+Mitsunari666: fold 
+APRO100PROA: raise 210 σε 300
+wilviny: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (210) επιστράφηκε στον APRO100PROA
+APRO100PROA μάζεψε 219 από  pot
+APRO100PROA: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 219 | Rake 0 
+Θέση 1: LeoLucas2013 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: Ploop16 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: wilviny (button) έκανε fold πριν Flop
+Θέση 5: Mitsunari666 (small blind) έκανε fold πριν Flop
+Θέση 6: APRO100PROA (big blind) απεκόμισε (219)
+
+
+
+PokerStars Παρτίδα #223621938099: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/09 23:52:25 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 15:52:25 ET]
+Τραπέζι '3120058440 4' 6-max Η θέση #5 είναι το button
+Θέση 1: LeoLucas2013 (2984 σε chips) 
+Θέση 2: Ploop16 (3038 σε chips) 
+Θέση 3: dkaz99 (2939 σε chips) 
+Θέση 4: wilviny (2987 σε chips) 
+Θέση 5: Mitsunari666 (2939 σε chips) 
+Θέση 6: APRO100PROA (3113 σε chips) 
+LeoLucas2013: βάζει το ante 4
+Ploop16: βάζει το ante 4
+dkaz99: βάζει το ante 4
+wilviny: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+APRO100PROA: βάζει το ante 4
+APRO100PROA: βάζει το small blind 15
+LeoLucas2013: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [6c Kc]
+Ploop16: fold 
+dkaz99: call 30
+wilviny: fold 
+Mitsunari666: fold 
+APRO100PROA: call 15
+LeoLucas2013: check 
+*** FLOP *** [8d Ad 2h]
+APRO100PROA: check 
+LeoLucas2013: check 
+dkaz99: check 
+*** TURN *** [8d Ad 2h] [6d]
+APRO100PROA: check 
+LeoLucas2013: check 
+dkaz99: check 
+*** RIVER *** [8d Ad 2h 6d] [5s]
+APRO100PROA: check 
+LeoLucas2013: check 
+dkaz99: check 
+*** SHOW DOWN ***
+APRO100PROA: δείχνει [9c Th] (Υψηλότερο Φύλλο Άσσος)
+LeoLucas2013: δείχνει [Jd 6h] (ζευγάρι Εξάρια)
+dkaz99: δείχνει [6c Kc] (ζευγάρι Εξάρια - Άσσος+Ρήγας  kicker)
+dkaz99 μάζεψε 114 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 114 | Rake 0 
+Ταμπλό [8d Ad 2h 6d 5s]
+Θέση 1: LeoLucas2013 (big blind)  έδειξε [Jd 6h] και έχασε  μέ ζευγάρι Εξάρια
+Θέση 2: Ploop16 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: dkaz99  έδειξε [6c Kc] και κέρδισε (114)  μέ ζευγάρι Εξάρια
+Θέση 4: wilviny έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Mitsunari666 (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: APRO100PROA (small blind)  έδειξε [9c Th] και έχασε  μέ Υψηλότερο Φύλλο Άσσος
+
+
+
+PokerStars Παρτίδα #223622019743: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/09 23:54:18 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 15:54:18 ET]
+Τραπέζι '3120058440 4' 6-max Η θέση #6 είναι το button
+Θέση 1: LeoLucas2013 (2950 σε chips) 
+Θέση 2: Ploop16 (3034 σε chips) 
+Θέση 3: dkaz99 (3019 σε chips) 
+Θέση 4: wilviny (2983 σε chips) 
+Θέση 5: Mitsunari666 (2935 σε chips) 
+Θέση 6: APRO100PROA (3079 σε chips) 
+LeoLucas2013: βάζει το ante 4
+Ploop16: βάζει το ante 4
+dkaz99: βάζει το ante 4
+wilviny: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+APRO100PROA: βάζει το ante 4
+LeoLucas2013: βάζει το small blind 15
+Ploop16: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [6d 6h]
+dkaz99: call 30
+wilviny: raise 120 σε 150
+Mitsunari666: raise 270 σε 420
+APRO100PROA: fold 
+LeoLucas2013: fold 
+Ploop16: fold 
+dkaz99: call 390
+wilviny: call 270
+*** FLOP *** [Ah As 3d]
+dkaz99: check 
+wilviny: check 
+Mitsunari666 τελείωσε ο χρόνος
+Mitsunari666: check 
+*** TURN *** [Ah As 3d] [Kh]
+dkaz99: check 
+wilviny: check 
+Mitsunari666 τελείωσε ο χρόνος
+Mitsunari666: check 
+*** RIVER *** [Ah As 3d Kh] [3h]
+dkaz99: check 
+wilviny: ποντάρει 332
+Mitsunari666: call 332
+dkaz99: call 332
+*** SHOW DOWN ***
+wilviny: δείχνει [Jc Kc] (δύο ζευγάρια, Άσσους και Ρηγάδες)
+Mitsunari666: δε φανερώνει το χέρι του 
+dkaz99: δε φανερώνει το χέρι του 
+wilviny μάζεψε 2325 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 2325 | Rake 0 
+Ταμπλό [Ah As 3d Kh 3h]
+Θέση 1: LeoLucas2013 (small blind) έκανε fold πριν Flop
+Θέση 2: Ploop16 (big blind) έκανε fold πριν Flop
+Θέση 3: dkaz99 mucked [6d 6h]
+Θέση 4: wilviny  έδειξε [Jc Kc] και κέρδισε (2325)  μέ δύο ζευγάρια, Άσσους και Ρηγάδες
+Θέση 5: Mitsunari666 mucked [Qd Qh]
+Θέση 6: APRO100PROA (button) έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622358577: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/10 0:03:19 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:03:19 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #1 είναι το button
+Θέση 1: fengarib (3000 σε chips) 
+Θέση 2: dkaz99 (2263 σε chips) 
+Θέση 4: pacman2201 (2832 σε chips) 
+Θέση 5: Cherryballer (3784 σε chips) 
+Θέση 6: Mitsunari666 (2179 σε chips) 
+fengarib: βάζει το ante 4
+dkaz99: βάζει το ante 4
+pacman2201: βάζει το ante 4
+Cherryballer: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+dkaz99: βάζει το small blind 15
+pacman2201: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [3s Ad]
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib τελείωσε ο χρόνος
+fengarib: fold 
+fengarib κάθεται εκτός
+fengarib επέστρεψε
+dkaz99: call 15
+pacman2201: check 
+*** FLOP *** [4c 5s As]
+dkaz99: ποντάρει 30
+pacman2201: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (30) επιστράφηκε στον dkaz99
+dkaz99 μάζεψε 80 από  pot
+dkaz99: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 80 | Rake 0 
+Ταμπλό [4c 5s As]
+Θέση 1: fengarib (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 (small blind) απεκόμισε (80)
+Θέση 4: pacman2201 (big blind) έκανε fold στο Flop
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622430506: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/10 0:04:59 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:04:59 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #2 είναι το button
+Θέση 1: fengarib (2996 σε chips) 
+Θέση 2: dkaz99 (2309 σε chips) 
+Θέση 3: Acidsensei (3000 σε chips) εκτός παρτίδας (μεταφέρθηκε από άλλο τραπέζι στο small blind)
+Θέση 4: pacman2201 (2798 σε chips) 
+Θέση 5: Cherryballer (3780 σε chips) 
+Θέση 6: Mitsunari666 (2175 σε chips) 
+Acidsensei θα επιτραπεί να παίξει μετά το button
+fengarib: βάζει το ante 4
+dkaz99: βάζει το ante 4
+pacman2201: βάζει το ante 4
+Cherryballer: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+pacman2201: βάζει το small blind 15
+Cherryballer: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Ac Ts]
+Mitsunari666: fold 
+fengarib: raise 95 σε 125
+dkaz99: call 125
+pacman2201: fold 
+Cherryballer: fold 
+*** FLOP *** [5d 6d Qc]
+fengarib: ποντάρει 120
+dkaz99: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (120) επιστράφηκε στον fengarib
+fengarib μάζεψε 315 από  pot
+fengarib: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 315 | Rake 0 
+Ταμπλό [5d 6d Qc]
+Θέση 1: fengarib απεκόμισε (315)
+Θέση 2: dkaz99 (button) έκανε fold στο Flop
+Θέση 4: pacman2201 (small blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer (big blind) έκανε fold πριν Flop
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622467773: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/10 0:05:50 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:05:50 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #4 είναι το button
+Θέση 1: fengarib (3182 σε chips) 
+Θέση 2: dkaz99 (2180 σε chips) 
+Θέση 3: Acidsensei (3000 σε chips) 
+Θέση 4: pacman2201 (2779 σε chips) 
+Θέση 5: Cherryballer (3746 σε chips) 
+Θέση 6: Mitsunari666 (2171 σε chips) 
+fengarib: βάζει το ante 4
+dkaz99: βάζει το ante 4
+Acidsensei: βάζει το ante 4
+pacman2201: βάζει το ante 4
+Cherryballer: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+Cherryballer: βάζει το small blind 15
+Mitsunari666: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [3c Jc]
+fengarib: fold 
+dkaz99: fold 
+Acidsensei: raise 60 σε 90
+pacman2201: fold 
+Cherryballer: fold 
+Mitsunari666: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (60) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 99 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 99 | Rake 0 
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei απεκόμισε (99)
+Θέση 4: pacman2201 (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (small blind) έκανε fold πριν Flop
+Θέση 6: Mitsunari666 (big blind) έκανε fold πριν Flop
+
+
+
+PokerStars Παρτίδα #223622490441: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/10 0:06:21 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:06:21 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #5 είναι το button
+Θέση 1: fengarib (3178 σε chips) 
+Θέση 2: dkaz99 (2176 σε chips) 
+Θέση 3: Acidsensei (3065 σε chips) 
+Θέση 4: pacman2201 (2775 σε chips) 
+Θέση 5: Cherryballer (3727 σε chips) 
+Θέση 6: Mitsunari666 (2137 σε chips) 
+fengarib: βάζει το ante 4
+dkaz99: βάζει το ante 4
+Acidsensei: βάζει το ante 4
+pacman2201: βάζει το ante 4
+Cherryballer: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+Mitsunari666: βάζει το small blind 15
+fengarib: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [4s 6s]
+dkaz99: call 30
+Acidsensei: fold 
+pacman2201: fold 
+Cherryballer: fold 
+Mitsunari666: raise 120 σε 150
+fengarib: call 120
+dkaz99: call 120
+*** FLOP *** [As Td 3c]
+Mitsunari666: check 
+fengarib: ποντάρει 90
+dkaz99: fold 
+Mitsunari666: call 90
+*** TURN *** [As Td 3c] [Qc]
+Mitsunari666: check 
+fengarib: ποντάρει 150
+Mitsunari666: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (150) επιστράφηκε στον fengarib
+fengarib μάζεψε 654 από  pot
+fengarib: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 654 | Rake 0 
+Ταμπλό [As Td 3c Qc]
+Θέση 1: fengarib (big blind) απεκόμισε (654)
+Θέση 2: dkaz99 έκανε fold στο Flop
+Θέση 3: Acidsensei έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: pacman2201 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (small blind) έκανε fold στο Turn
+
+
+
+PokerStars Παρτίδα #223622534471: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο I (15/30) - 2021/02/10 0:07:23 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:07:23 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #6 είναι το button
+Θέση 1: fengarib (3588 σε chips) 
+Θέση 2: dkaz99 (2022 σε chips) 
+Θέση 3: Acidsensei (3061 σε chips) 
+Θέση 4: pacman2201 (2771 σε chips) 
+Θέση 5: Cherryballer (3723 σε chips) 
+Θέση 6: Mitsunari666 (1893 σε chips) 
+fengarib: βάζει το ante 4
+dkaz99: βάζει το ante 4
+Acidsensei: βάζει το ante 4
+pacman2201: βάζει το ante 4
+Cherryballer: βάζει το ante 4
+Mitsunari666: βάζει το ante 4
+fengarib: βάζει το small blind 15
+dkaz99: βάζει το big blind 30
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [8c 9d]
+Acidsensei: call 30
+pacman2201: fold 
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: call 15
+dkaz99: check 
+*** FLOP *** [Js Jh 8d]
+fengarib: check 
+dkaz99: ποντάρει 114
+Acidsensei: call 114
+fengarib: call 114
+*** TURN *** [Js Jh 8d] [4s]
+fengarib: check 
+dkaz99: ποντάρει 30
+Acidsensei: call 30
+fengarib: raise 273 σε 303
+dkaz99: call 273
+Acidsensei: fold 
+*** RIVER *** [Js Jh 8d 4s] [Qc]
+fengarib: ποντάρει 210
+dkaz99: call 210
+*** SHOW DOWN ***
+fengarib: δείχνει [3s Jd] (Τριάδα, Βαλέδες)
+dkaz99: δε φανερώνει το χέρι του 
+fengarib μάζεψε 1512 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 1512 | Rake 0 
+Ταμπλό [Js Jh 8d 4s Qc]
+Θέση 1: fengarib (small blind)  έδειξε [3s Jd] και κέρδισε (1512)  μέ Τριάδα, Βαλέδες
+Θέση 2: dkaz99 (big blind) mucked [8c 9d]
+Θέση 3: Acidsensei έκανε fold στο Turn
+Θέση 4: pacman2201 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (button) έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622585048: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:08:22 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:08:22 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #1 είναι το button
+Θέση 1: fengarib (4439 σε chips) 
+Θέση 2: dkaz99 (1361 σε chips) 
+Θέση 3: Acidsensei (2883 σε chips) 
+Θέση 4: pacman2201 (2767 σε chips) 
+Θέση 5: Cherryballer (3719 σε chips) 
+Θέση 6: Mitsunari666 (1889 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+pacman2201: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+dkaz99: βάζει το small blind 20
+Acidsensei: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Qd 7c]
+pacman2201: fold 
+Cherryballer: raise 44 σε 84
+Mitsunari666: fold 
+fengarib: fold 
+dkaz99: call 64
+Acidsensei: call 44
+*** FLOP *** [4c As 6c]
+dkaz99: check 
+Acidsensei: ποντάρει 141
+Cherryballer: fold 
+dkaz99: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (141) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 282 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 282 | Rake 0 
+Ταμπλό [4c As 6c]
+Θέση 1: fengarib (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 (small blind) έκανε fold στο Flop
+Θέση 3: Acidsensei (big blind) απεκόμισε (282)
+Θέση 4: pacman2201 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold στο Flop
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622629878: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:09:24 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:09:24 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #2 είναι το button
+Θέση 1: fengarib (4434 σε chips) 
+Θέση 2: dkaz99 (1272 σε chips) 
+Θέση 3: Acidsensei (3076 σε chips) 
+Θέση 4: pacman2201 (2762 σε chips) 
+Θέση 5: Cherryballer (3630 σε chips) 
+Θέση 6: Mitsunari666 (1884 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+pacman2201: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+Acidsensei: βάζει το small blind 20
+pacman2201: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Ac Kh]
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: call 40
+dkaz99: raise 200 σε 240
+Acidsensei: fold 
+pacman2201: call 200
+fengarib: call 200
+*** FLOP *** [Jc As 2h]
+pacman2201: check 
+fengarib: check 
+dkaz99: ποντάρει 770
+pacman2201: fold 
+fengarib: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (770) επιστράφηκε στον dkaz99
+dkaz99 μάζεψε 770 από  pot
+dkaz99: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 770 | Rake 0 
+Ταμπλό [Jc As 2h]
+Θέση 1: fengarib έκανε fold στο Flop
+Θέση 2: dkaz99 (button) απεκόμισε (770)
+Θέση 3: Acidsensei (small blind) έκανε fold πριν Flop
+Θέση 4: pacman2201 (big blind) έκανε fold στο Flop
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622666279: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:10:15 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:10:15 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #3 είναι το button
+Θέση 1: fengarib (4189 σε chips) 
+Θέση 2: dkaz99 (1797 σε chips) 
+Θέση 3: Acidsensei (3051 σε chips) 
+Θέση 4: pacman2201 (2517 σε chips) 
+Θέση 5: Cherryballer (3625 σε chips) 
+Θέση 6: Mitsunari666 (1879 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+pacman2201: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+pacman2201: βάζει το small blind 20
+Cherryballer: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Kd 4s]
+Mitsunari666: fold 
+fengarib: raise 80 σε 120
+dkaz99: fold 
+Acidsensei: fold 
+pacman2201: fold 
+Cherryballer: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (80) επιστράφηκε στον fengarib
+fengarib μάζεψε 130 από  pot
+fengarib: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 130 | Rake 0 
+Θέση 1: fengarib απεκόμισε (130)
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: pacman2201 (small blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer (big blind) έκανε fold πριν Flop
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622679028: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:10:33 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:10:33 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #5 είναι το button
+Θέση 1: fengarib (4274 σε chips) 
+Θέση 2: dkaz99 (1792 σε chips) 
+Θέση 3: Acidsensei (3046 σε chips) 
+Θέση 5: Cherryballer (3580 σε chips) 
+Θέση 6: Mitsunari666 (1874 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+Mitsunari666: βάζει το small blind 20
+fengarib: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Kc Ts]
+dkaz99: raise 125 σε 165
+Acidsensei: fold 
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: call 125
+*** FLOP *** [4h 3s Js]
+fengarib: check 
+dkaz99: check 
+*** TURN *** [4h 3s Js] [5s]
+fengarib: ποντάρει 40
+dkaz99: call 40
+*** RIVER *** [4h 3s Js 5s] [Kh]
+fengarib: check 
+dkaz99: check 
+*** SHOW DOWN ***
+fengarib: δείχνει [8s Qh] (Υψηλότερο Φύλλο Ρήγας)
+dkaz99: δείχνει [Kc Ts] (ζευγάρι Ρηγάδες)
+dkaz99 μάζεψε 455 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 455 | Rake 0 
+Ταμπλό [4h 3s Js 5s Kh]
+Θέση 1: fengarib (big blind)  έδειξε [8s Qh] και έχασε  μέ Υψηλότερο Φύλλο Ρήγας
+Θέση 2: dkaz99  έδειξε [Kc Ts] και κέρδισε (455)  μέ ζευγάρι Ρηγάδες
+Θέση 3: Acidsensei έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (small blind) έκανε fold πριν Flop
+
+
+
+PokerStars Παρτίδα #223622714254: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:11:21 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:11:21 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #6 είναι το button
+Θέση 1: fengarib (4064 σε chips) 
+Θέση 2: dkaz99 (2037 σε chips) 
+Θέση 3: Acidsensei (3041 σε chips) 
+Θέση 4: AAATATATA (3000 σε chips) 
+Θέση 5: Cherryballer (3575 σε chips) 
+Θέση 6: Mitsunari666 (1849 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+AAATATATA: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+fengarib: βάζει το small blind 20
+dkaz99: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Jd 9h]
+Acidsensei: raise 80 σε 120
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: fold 
+dkaz99: call 80
+*** FLOP *** [Ts Qs 3d]
+dkaz99: check 
+Acidsensei: ποντάρει 180
+dkaz99: call 180
+*** TURN *** [Ts Qs 3d] [6h]
+dkaz99: check 
+Acidsensei: ποντάρει 280
+dkaz99: call 280
+*** RIVER *** [Ts Qs 3d 6h] [5c]
+dkaz99: check 
+Acidsensei: check 
+*** SHOW DOWN ***
+dkaz99: δείχνει [Jd 9h] (Υψηλότερο Φύλλο Ντάμα)
+Acidsensei: δείχνει [Tc Ad] (ζευγάρι Δεκάρια)
+Acidsensei μάζεψε 1210 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 1210 | Rake 0 
+Ταμπλό [Ts Qs 3d 6h 5c]
+Θέση 1: fengarib (small blind) έκανε fold πριν Flop
+Θέση 2: dkaz99 (big blind)  έδειξε [Jd 9h] και έχασε  μέ Υψηλότερο Φύλλο Ντάμα
+Θέση 3: Acidsensei  έδειξε [Tc Ad] και κέρδισε (1210)  μέ ζευγάρι Δεκάρια
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (button) έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622765577: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:12:32 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:12:32 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #1 είναι το button
+Θέση 1: fengarib (4039 σε chips) 
+Θέση 2: dkaz99 (1452 σε chips) 
+Θέση 3: Acidsensei (3666 σε chips) 
+Θέση 4: AAATATATA (2995 σε chips) 
+Θέση 5: Cherryballer (3570 σε chips) 
+Θέση 6: Mitsunari666 (1844 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+AAATATATA: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+dkaz99: βάζει το small blind 20
+Acidsensei: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [7c 4d]
+AAATATATA: fold 
+Cherryballer: raise 44 σε 84
+Mitsunari666: fold 
+fengarib: call 84
+dkaz99: fold 
+Acidsensei: call 44
+*** FLOP *** [Tc Ks Qc]
+Acidsensei: ποντάρει 80
+Cherryballer: fold 
+fengarib: call 80
+*** TURN *** [Tc Ks Qc] [8h]
+Acidsensei: ποντάρει 320
+fengarib: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (320) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 462 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 462 | Rake 0 
+Ταμπλό [Tc Ks Qc 8h]
+Θέση 1: fengarib (button) έκανε fold στο Turn
+Θέση 2: dkaz99 (small blind) έκανε fold πριν Flop
+Θέση 3: Acidsensei (big blind) απεκόμισε (462)
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold στο Flop
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622815491: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:13:43 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:13:43 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #2 είναι το button
+Θέση 1: fengarib (3870 σε chips) 
+Θέση 2: dkaz99 (1427 σε chips) 
+Θέση 3: Acidsensei (3959 σε chips) 
+Θέση 4: AAATATATA (2990 σε chips) 
+Θέση 5: Cherryballer (3481 σε chips) 
+Θέση 6: Mitsunari666 (1839 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+AAATATATA: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+Acidsensei: βάζει το small blind 20
+AAATATATA: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [5s Ts]
+Cherryballer: raise 44 σε 84
+Mitsunari666: fold 
+fengarib: fold 
+dkaz99: call 84
+Acidsensei: call 64
+AAATATATA: fold 
+*** FLOP *** [8d 4s 7d]
+Acidsensei: check 
+Cherryballer: check 
+dkaz99: check 
+*** TURN *** [8d 4s 7d] [5c]
+Acidsensei: check 
+Cherryballer: check 
+dkaz99: check 
+*** RIVER *** [8d 4s 7d 5c] [Qd]
+Acidsensei: ποντάρει 200
+Cherryballer: call 200
+dkaz99: fold 
+*** SHOW DOWN ***
+Acidsensei: δείχνει [Qs 3s] (ζευγάρι Ντάμες)
+Cherryballer: δείχνει [As Qc] (ζευγάρι Ντάμες - Άσσος  kicker)
+Cherryballer μάζεψε 722 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 722 | Rake 0 
+Ταμπλό [8d 4s 7d 5c Qd]
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 (button) έκανε fold στο River
+Θέση 3: Acidsensei (small blind)  έδειξε [Qs 3s] και έχασε  μέ ζευγάρι Ντάμες
+Θέση 4: AAATATATA (big blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer  έδειξε [As Qc] και κέρδισε (722)  μέ ζευγάρι Ντάμες
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622858029: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:14:42 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:14:42 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #3 είναι το button
+Θέση 1: fengarib (3865 σε chips) 
+Θέση 2: dkaz99 (1338 σε chips) 
+Θέση 3: Acidsensei (3670 σε chips) 
+Θέση 4: AAATATATA (2945 σε chips) 
+Θέση 5: Cherryballer (3914 σε chips) 
+Θέση 6: Mitsunari666 (1834 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+AAATATATA: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+AAATATATA: βάζει το small blind 20
+Cherryballer: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [2c Kd]
+Mitsunari666: fold 
+fengarib: raise 40 σε 80
+dkaz99: fold 
+Acidsensei: raise 160 σε 240
+AAATATATA: fold 
+Cherryballer: fold 
+fengarib: call 160
+*** FLOP *** [4c Th 9s]
+fengarib: check 
+Acidsensei: ποντάρει 440
+fengarib: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (440) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 570 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 570 | Rake 0 
+Ταμπλό [4c Th 9s]
+Θέση 1: fengarib έκανε fold στο Flop
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei (button) απεκόμισε (570)
+Θέση 4: AAATATATA (small blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer (big blind) έκανε fold πριν Flop
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223622906412: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:15:48 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:15:48 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #4 είναι το button
+Θέση 1: fengarib (3620 σε chips) 
+Θέση 2: dkaz99 (1333 σε chips) 
+Θέση 3: Acidsensei (3995 σε chips) 
+Θέση 4: AAATATATA (2920 σε chips) 
+Θέση 5: Cherryballer (3869 σε chips) 
+Θέση 6: Mitsunari666 (1829 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+AAATATATA: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+Cherryballer: βάζει το small blind 20
+Mitsunari666: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [7c 2h]
+fengarib: fold 
+dkaz99: fold 
+Acidsensei: call 40
+AAATATATA: fold 
+Cherryballer: raise 120 σε 160
+Mitsunari666: fold 
+Acidsensei: call 120
+*** FLOP *** [8d 4h Kd]
+Cherryballer: ποντάρει 125
+Acidsensei: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (125) επιστράφηκε στον Cherryballer
+Cherryballer μάζεψε 390 από  pot
+Cherryballer: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 390 | Rake 0 
+Ταμπλό [8d 4h Kd]
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei έκανε fold στο Flop
+Θέση 4: AAATATATA (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (small blind) απεκόμισε (390)
+Θέση 6: Mitsunari666 (big blind) έκανε fold πριν Flop
+
+
+
+PokerStars Παρτίδα #223622940747: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:16:35 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:16:35 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #5 είναι το button
+Θέση 1: fengarib (3615 σε chips) 
+Θέση 2: dkaz99 (1328 σε chips) 
+Θέση 3: Acidsensei (3830 σε chips) 
+Θέση 4: AAATATATA (2915 σε chips) 
+Θέση 5: Cherryballer (4094 σε chips) 
+Θέση 6: Mitsunari666 (1784 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+AAATATATA: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+Mitsunari666: βάζει το small blind 20
+fengarib: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [3h 8s]
+dkaz99: fold 
+Acidsensei: fold 
+AAATATATA: raise 48 σε 88
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: call 48
+*** FLOP *** [9h Ac 9s]
+fengarib: check 
+AAATATATA: check 
+*** TURN *** [9h Ac 9s] [3s]
+fengarib: check 
+AAATATATA: ποντάρει 113
+fengarib: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (113) επιστράφηκε στον AAATATATA
+AAATATATA μάζεψε 226 από  pot
+AAATATATA: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 226 | Rake 0 
+Ταμπλό [9h Ac 9s 3s]
+Θέση 1: fengarib (big blind) έκανε fold στο Turn
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: AAATATATA απεκόμισε (226)
+Θέση 5: Cherryballer (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (small blind) έκανε fold πριν Flop
+
+
+
+PokerStars Παρτίδα #223622965824: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο II (20/40) - 2021/02/10 0:17:09 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:17:09 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #6 είναι το button
+Θέση 1: fengarib (3522 σε chips) 
+Θέση 2: dkaz99 (1323 σε chips) 
+Θέση 3: Acidsensei (3825 σε chips) 
+Θέση 4: AAATATATA (3048 σε chips) 
+Θέση 5: Cherryballer (4089 σε chips) 
+Θέση 6: Mitsunari666 (1759 σε chips) 
+fengarib: βάζει το ante 5
+dkaz99: βάζει το ante 5
+Acidsensei: βάζει το ante 5
+AAATATATA: βάζει το ante 5
+Cherryballer: βάζει το ante 5
+Mitsunari666: βάζει το ante 5
+fengarib: βάζει το small blind 20
+dkaz99: βάζει το big blind 40
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [7h 8h]
+Acidsensei: fold 
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: raise 60 σε 100
+fengarib: call 80
+dkaz99: call 60
+*** FLOP *** [7d 9d 6c]
+fengarib: check 
+dkaz99 τελείωσε ο χρόνος
+dkaz99: check 
+Mitsunari666: check 
+*** TURN *** [7d 9d 6c] [Js]
+fengarib: check 
+dkaz99: check 
+Mitsunari666: check 
+*** RIVER *** [7d 9d 6c Js] [8c]
+fengarib: ποντάρει 205
+dkaz99: call 205
+Mitsunari666: fold 
+*** SHOW DOWN ***
+fengarib: δείχνει [Ac Td] (Κέντα, Επτά μέχρι Βαλές)
+dkaz99: δε φανερώνει το χέρι του 
+fengarib μάζεψε 740 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 740 | Rake 0 
+Ταμπλό [7d 9d 6c Js 8c]
+Θέση 1: fengarib (small blind)  έδειξε [Ac Td] και κέρδισε (740)  μέ Κέντα, Επτά μέχρι Βαλές
+Θέση 2: dkaz99 (big blind) mucked [7h 8h]
+Θέση 3: Acidsensei έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (button) έκανε fold στο River
+
+
+
+PokerStars Παρτίδα #223623050964: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:19:05 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:19:05 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #1 είναι το button
+Θέση 1: fengarib (3952 σε chips) 
+Θέση 2: dkaz99 (1013 σε chips) 
+Θέση 3: Acidsensei (3820 σε chips) 
+Θέση 4: AAATATATA (3043 σε chips) 
+Θέση 5: Cherryballer (4084 σε chips) 
+Θέση 6: Mitsunari666 (1654 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+dkaz99: βάζει το small blind 25
+Acidsensei: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [6h 5s]
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: fold 
+dkaz99: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (25) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 86 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 86 | Rake 0 
+Θέση 1: fengarib (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 (small blind) έκανε fold πριν Flop
+Θέση 3: Acidsensei (big blind) απεκόμισε (86)
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623061294: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:19:20 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:19:20 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #2 είναι το button
+Θέση 1: fengarib (3946 σε chips) 
+Θέση 2: dkaz99 (982 σε chips) 
+Θέση 3: Acidsensei (3875 σε chips) 
+Θέση 4: AAATATATA (3037 σε chips) 
+Θέση 5: Cherryballer (4078 σε chips) 
+Θέση 6: Mitsunari666 (1648 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+Acidsensei: βάζει το small blind 25
+AAATATATA: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [8d Kc]
+Cherryballer: fold 
+Mitsunari666: raise 75 σε 125
+fengarib: call 125
+dkaz99: call 125
+Acidsensei: call 100
+AAATATATA: fold 
+*** FLOP *** [6s 3c 7d]
+Acidsensei: check 
+Mitsunari666: ποντάρει 293
+fengarib: fold 
+dkaz99: fold 
+Acidsensei: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (293) επιστράφηκε στον Mitsunari666
+Mitsunari666 μάζεψε 586 από  pot
+Mitsunari666: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 586 | Rake 0 
+Ταμπλό [6s 3c 7d]
+Θέση 1: fengarib έκανε fold στο Flop
+Θέση 2: dkaz99 (button) έκανε fold στο Flop
+Θέση 3: Acidsensei (small blind) έκανε fold στο Flop
+Θέση 4: AAATATATA (big blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 απεκόμισε (586)
+
+
+
+PokerStars Παρτίδα #223623125091: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:20:46 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:20:46 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #3 είναι το button
+Θέση 1: fengarib (3815 σε chips) 
+Θέση 2: dkaz99 (851 σε chips) 
+Θέση 3: Acidsensei (3744 σε chips) 
+Θέση 4: AAATATATA (2981 σε chips) 
+Θέση 5: Cherryballer (4072 σε chips) 
+Θέση 6: Mitsunari666 (2103 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+AAATATATA: βάζει το small blind 25
+Cherryballer: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [8s 3s]
+Mitsunari666: fold 
+fengarib: fold 
+dkaz99 τελείωσε ο χρόνος
+dkaz99: fold 
+dkaz99 κάθεται εκτός
+dkaz99 επέστρεψε
+Acidsensei: call 50
+AAATATATA: fold 
+Cherryballer: check 
+*** FLOP *** [5d Qh Ac]
+Cherryballer: check 
+Acidsensei: check 
+*** TURN *** [5d Qh Ac] [4d]
+Cherryballer: check 
+Acidsensei: check 
+*** RIVER *** [5d Qh Ac 4d] [Kh]
+Cherryballer: check 
+Acidsensei: ποντάρει 200
+Cherryballer: call 200
+*** SHOW DOWN ***
+Acidsensei: δείχνει [Tc Jh] (Κέντα, Δέκα μέχρι Άσσος)
+Cherryballer: δε φανερώνει το χέρι του 
+Acidsensei μάζεψε 561 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 561 | Rake 0 
+Ταμπλό [5d Qh Ac 4d Kh]
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei (button)  έδειξε [Tc Jh] και κέρδισε (561)  μέ Κέντα, Δέκα μέχρι Άσσος
+Θέση 4: AAATATATA (small blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer (big blind) mucked [Ks Jd]
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623197812: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:22:12 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:22:12 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #4 είναι το button
+Θέση 1: fengarib (3809 σε chips) 
+Θέση 2: dkaz99 (845 σε chips) 
+Θέση 3: Acidsensei (4049 σε chips) 
+Θέση 4: AAATATATA (2950 σε chips) 
+Θέση 5: Cherryballer (3816 σε chips) 
+Θέση 6: Mitsunari666 (2097 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+Cherryballer: βάζει το small blind 25
+Mitsunari666: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Jc 8s]
+fengarib: fold 
+dkaz99 τελείωσε ο χρόνος
+dkaz99: fold 
+dkaz99 κάθεται εκτός
+Acidsensei: fold 
+AAATATATA: raise 60 σε 110
+Cherryballer: fold 
+Mitsunari666: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (60) επιστράφηκε στον AAATATATA
+AAATATATA μάζεψε 161 από  pot
+AAATATATA: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 161 | Rake 0 
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: AAATATATA (button) απεκόμισε (161)
+Θέση 5: Cherryballer (small blind) έκανε fold πριν Flop
+Θέση 6: Mitsunari666 (big blind) έκανε fold πριν Flop
+
+
+
+PokerStars Παρτίδα #223623214187: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:22:34 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:22:34 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #5 είναι το button
+Θέση 1: fengarib (3803 σε chips) 
+Θέση 2: dkaz99 (839 σε chips) κάθεται εκτός παιχνιδιού
+Θέση 3: Acidsensei (4043 σε chips) 
+Θέση 4: AAATATATA (3055 σε chips) 
+Θέση 5: Cherryballer (3785 σε chips) 
+Θέση 6: Mitsunari666 (2041 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+Mitsunari666: βάζει το small blind 25
+fengarib: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [8s 4c]
+dkaz99: fold 
+Acidsensei: fold 
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: call 25
+fengarib: check 
+*** FLOP *** [Jh 6s 3d]
+Mitsunari666: check 
+fengarib: check 
+*** TURN *** [Jh 6s 3d] [8c]
+Mitsunari666: check 
+fengarib: check 
+*** RIVER *** [Jh 6s 3d 8c] [7s]
+Mitsunari666: check 
+fengarib: check 
+*** SHOW DOWN ***
+Mitsunari666: δείχνει [As Td] (Υψηλότερο Φύλλο Άσσος)
+fengarib: δε φανερώνει το χέρι του 
+Mitsunari666 μάζεψε 136 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 136 | Rake 0 
+Ταμπλό [Jh 6s 3d 8c 7s]
+Θέση 1: fengarib (big blind) mucked [5d Tc]
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (small blind)  έδειξε [As Td] και κέρδισε (136)  μέ Υψηλότερο Φύλλο Άσσος
+
+
+
+PokerStars Παρτίδα #223623241867: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:23:02 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:23:02 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #6 είναι το button
+Θέση 1: fengarib (3747 σε chips) 
+Θέση 2: dkaz99 (833 σε chips) κάθεται εκτός παιχνιδιού
+Θέση 3: Acidsensei (4037 σε chips) 
+Θέση 4: AAATATATA (3049 σε chips) 
+Θέση 5: Cherryballer (3779 σε chips) 
+Θέση 6: Mitsunari666 (2121 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+fengarib: βάζει το small blind 25
+dkaz99: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [3h Jh]
+Acidsensei: call 50
+AAATATATA: call 50
+Cherryballer: raise 150 σε 200
+Mitsunari666: fold 
+fengarib: call 175
+dkaz99: fold 
+Acidsensei: call 150
+AAATATATA: fold 
+*** FLOP *** [As 2s Qd]
+fengarib: check 
+dkaz99 επέστρεψε
+Acidsensei: ποντάρει 278
+Cherryballer: call 278
+fengarib: call 278
+*** TURN *** [As 2s Qd] [2h]
+fengarib: check 
+Acidsensei: check 
+Cherryballer: ποντάρει 900
+fengarib: call 900
+Acidsensei: fold 
+*** RIVER *** [As 2s Qd 2h] [7s]
+fengarib: check 
+Cherryballer: check 
+*** SHOW DOWN ***
+fengarib: δείχνει [5d Ac] (δύο ζευγάρια, Άσσους και Δυάρια)
+Cherryballer: δείχνει [Ah Qc] (δύο ζευγάρια, Άσσους και Ντάμες)
+Cherryballer μάζεψε 3370 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 3370 | Rake 0 
+Ταμπλό [As 2s Qd 2h 7s]
+Θέση 1: fengarib (small blind)  έδειξε [5d Ac] και έχασε  μέ δύο ζευγάρια, Άσσους και Δυάρια
+Θέση 2: dkaz99 (big blind) έκανε fold πριν Flop
+Θέση 3: Acidsensei έκανε fold στο Turn
+Θέση 4: AAATATATA έκανε fold πριν Flop
+Θέση 5: Cherryballer  έδειξε [Ah Qc] και κέρδισε (3370)  μέ δύο ζευγάρια, Άσσους και Ντάμες
+Θέση 6: Mitsunari666 (button) έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623323338: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:24:53 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:24:53 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #1 είναι το button
+Θέση 1: fengarib (2363 σε chips) 
+Θέση 2: dkaz99 (777 σε chips) 
+Θέση 3: Acidsensei (3553 σε chips) 
+Θέση 4: AAATATATA (2993 σε chips) 
+Θέση 5: Cherryballer (5765 σε chips) 
+Θέση 6: Mitsunari666 (2115 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+dkaz99: βάζει το small blind 25
+Acidsensei: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Qh Qd]
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: raise 75 σε 125
+fengarib: fold 
+dkaz99: raise 75 σε 200
+Acidsensei: fold 
+Mitsunari666: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (75) επιστράφηκε στον dkaz99
+dkaz99 μάζεψε 336 από  pot
+dkaz99: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 336 | Rake 0 
+Θέση 1: fengarib (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 (small blind) απεκόμισε (336)
+Θέση 3: Acidsensei (big blind) έκανε fold πριν Flop
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop
+
+
+
+PokerStars Παρτίδα #223623341976: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:25:19 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:25:19 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #2 είναι το button
+Θέση 1: fengarib (2357 σε chips) 
+Θέση 2: dkaz99 (982 σε chips) 
+Θέση 3: Acidsensei (3497 σε chips) 
+Θέση 4: AAATATATA (2987 σε chips) 
+Θέση 5: Cherryballer (5759 σε chips) 
+Θέση 6: Mitsunari666 (1984 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+Acidsensei: βάζει το small blind 25
+AAATATATA: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [8s 2c]
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: call 50
+dkaz99: fold 
+Acidsensei: raise 100 σε 150
+AAATATATA: fold 
+fengarib: call 100
+*** FLOP *** [Qd Kc Td]
+Acidsensei: check 
+fengarib: check 
+*** TURN *** [Qd Kc Td] [9c]
+Acidsensei: ποντάρει 200
+fengarib: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (200) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 386 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 386 | Rake 0 
+Ταμπλό [Qd Kc Td 9c]
+Θέση 1: fengarib έκανε fold στο Turn
+Θέση 2: dkaz99 (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei (small blind) απεκόμισε (386)
+Θέση 4: AAATATATA (big blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623381386: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:26:13 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:26:13 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #3 είναι το button
+Θέση 1: fengarib (2201 σε chips) 
+Θέση 2: dkaz99 (976 σε chips) 
+Θέση 3: Acidsensei (3727 σε chips) 
+Θέση 4: AAATATATA (2931 σε chips) 
+Θέση 5: Cherryballer (5753 σε chips) 
+Θέση 6: Mitsunari666 (1978 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+AAATATATA: βάζει το small blind 25
+Cherryballer: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [2c Ks]
+Mitsunari666: fold 
+fengarib: fold 
+dkaz99: call 50
+Acidsensei: call 50
+AAATATATA: fold 
+Cherryballer: check 
+*** FLOP *** [Qs 7s 7d]
+Cherryballer: check 
+dkaz99: check 
+Acidsensei: ποντάρει 150
+Cherryballer: fold 
+dkaz99: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (150) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 211 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 211 | Rake 0 
+Ταμπλό [Qs 7s 7d]
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold στο Flop
+Θέση 3: Acidsensei (button) απεκόμισε (211)
+Θέση 4: AAATATATA (small blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer (big blind) έκανε fold στο Flop
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623439140: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:27:32 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:27:32 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #4 είναι το button
+Θέση 1: fengarib (2195 σε chips) 
+Θέση 2: dkaz99 (920 σε chips) 
+Θέση 3: Acidsensei (3882 σε chips) 
+Θέση 4: AAATATATA (2900 σε chips) 
+Θέση 5: Cherryballer (5697 σε chips) 
+Θέση 6: Mitsunari666 (1972 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+Cherryballer: βάζει το small blind 25
+Mitsunari666: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [7h Js]
+fengarib: fold 
+dkaz99: fold 
+Acidsensei: fold 
+AAATATATA: fold 
+Cherryballer: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (25) επιστράφηκε στον Mitsunari666
+Mitsunari666 μάζεψε 86 από  pot
+Mitsunari666: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 86 | Rake 0 
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: AAATATATA (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (small blind) έκανε fold πριν Flop
+Θέση 6: Mitsunari666 (big blind) απεκόμισε (86)
+
+
+
+PokerStars Παρτίδα #223623452832: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο III (25/50) - 2021/02/10 0:27:51 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:27:51 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #5 είναι το button
+Θέση 1: fengarib (2189 σε chips) 
+Θέση 2: dkaz99 (914 σε chips) 
+Θέση 3: Acidsensei (3876 σε chips) 
+Θέση 4: AAATATATA (2894 σε chips) 
+Θέση 5: Cherryballer (5666 σε chips) 
+Θέση 6: Mitsunari666 (2027 σε chips) 
+fengarib: βάζει το ante 6
+dkaz99: βάζει το ante 6
+Acidsensei: βάζει το ante 6
+AAATATATA: βάζει το ante 6
+Cherryballer: βάζει το ante 6
+Mitsunari666: βάζει το ante 6
+Mitsunari666: βάζει το small blind 25
+fengarib: βάζει το big blind 50
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [6d 2c]
+dkaz99: fold 
+Acidsensei: raise 100 σε 150
+AAATATATA: fold 
+Cherryballer: call 150
+Mitsunari666: fold 
+fengarib: call 100
+*** FLOP *** [3h 7d 9d]
+fengarib: check 
+Acidsensei: ποντάρει 250
+Cherryballer: fold 
+fengarib: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (250) επιστράφηκε στον Acidsensei
+Acidsensei μάζεψε 511 από  pot
+Acidsensei: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 511 | Rake 0 
+Ταμπλό [3h 7d 9d]
+Θέση 1: fengarib (big blind) έκανε fold στο Flop
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei απεκόμισε (511)
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (button) έκανε fold στο Flop
+Θέση 6: Mitsunari666 (small blind) έκανε fold πριν Flop
+
+
+
+PokerStars Παρτίδα #223623498463: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο IV (30/60) - 2021/02/10 0:28:54 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:28:54 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #6 είναι το button
+Θέση 1: fengarib (2033 σε chips) 
+Θέση 2: dkaz99 (908 σε chips) 
+Θέση 3: Acidsensei (4231 σε chips) 
+Θέση 4: AAATATATA (2888 σε chips) 
+Θέση 5: Cherryballer (5510 σε chips) 
+Θέση 6: Mitsunari666 (1996 σε chips) 
+fengarib: βάζει το ante 7
+dkaz99: βάζει το ante 7
+Acidsensei: βάζει το ante 7
+AAATATATA: βάζει το ante 7
+Cherryballer: βάζει το ante 7
+Mitsunari666: βάζει το ante 7
+fengarib: βάζει το small blind 30
+dkaz99: βάζει το big blind 60
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Td 7s]
+Acidsensei: call 60
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: call 30
+dkaz99: check 
+*** FLOP *** [2h Ad Kc]
+fengarib: check 
+dkaz99: check 
+Acidsensei: check 
+*** TURN *** [2h Ad Kc] [8h]
+fengarib: ποντάρει 60
+dkaz99: fold 
+Acidsensei: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (60) επιστράφηκε στον fengarib
+fengarib μάζεψε 222 από  pot
+fengarib: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 222 | Rake 0 
+Ταμπλό [2h Ad Kc 8h]
+Θέση 1: fengarib (small blind) απεκόμισε (222)
+Θέση 2: dkaz99 (big blind) έκανε fold στο Turn
+Θέση 3: Acidsensei έκανε fold στο Turn
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (button) έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623539285: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο IV (30/60) - 2021/02/10 0:29:50 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:29:50 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #1 είναι το button
+Θέση 1: fengarib (2188 σε chips) 
+Θέση 2: dkaz99 (841 σε chips) 
+Θέση 3: Acidsensei (4164 σε chips) 
+Θέση 4: AAATATATA (2881 σε chips) 
+Θέση 5: Cherryballer (5503 σε chips) 
+Θέση 6: Mitsunari666 (1989 σε chips) 
+fengarib: βάζει το ante 7
+dkaz99: βάζει το ante 7
+Acidsensei: βάζει το ante 7
+AAATATATA: βάζει το ante 7
+Cherryballer: βάζει το ante 7
+Mitsunari666: βάζει το ante 7
+dkaz99: βάζει το small blind 30
+Acidsensei: βάζει το big blind 60
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [7d 8d]
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: raise 60 σε 120
+dkaz99: call 90
+Acidsensei: call 60
+*** FLOP *** [8h Js 6c]
+dkaz99 τελείωσε ο χρόνος
+dkaz99: check 
+Acidsensei: check 
+fengarib: check 
+*** TURN *** [8h Js 6c] [4h]
+dkaz99 τελείωσε ο χρόνος
+dkaz99: check 
+Acidsensei: check 
+fengarib: check 
+*** RIVER *** [8h Js 6c 4h] [Ac]
+dkaz99 τελείωσε ο χρόνος
+dkaz99: check 
+Acidsensei: check 
+fengarib: ποντάρει 201
+dkaz99: call 201
+Acidsensei: fold 
+*** SHOW DOWN ***
+fengarib: δείχνει [Ah 5s] (ζευγάρι Άσσους)
+dkaz99: δε φανερώνει το χέρι του 
+fengarib μάζεψε 804 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 804 | Rake 0 
+Ταμπλό [8h Js 6c 4h Ac]
+Θέση 1: fengarib (button)  έδειξε [Ah 5s] και κέρδισε (804)  μέ ζευγάρι Άσσους
+Θέση 2: dkaz99 (small blind) mucked [7d 8d]
+Θέση 3: Acidsensei (big blind) έκανε fold στο River
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623646759: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο IV (30/60) - 2021/02/10 0:32:18 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:32:18 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #2 είναι το button
+Θέση 1: fengarib (2664 σε chips) 
+Θέση 2: dkaz99 (513 σε chips) 
+Θέση 3: Acidsensei (4037 σε chips) 
+Θέση 4: AAATATATA (2874 σε chips) 
+Θέση 5: Cherryballer (5496 σε chips) 
+Θέση 6: Mitsunari666 (1982 σε chips) 
+fengarib: βάζει το ante 7
+dkaz99: βάζει το ante 7
+Acidsensei: βάζει το ante 7
+AAATATATA: βάζει το ante 7
+Cherryballer: βάζει το ante 7
+Mitsunari666: βάζει το ante 7
+Acidsensei: βάζει το small blind 30
+AAATATATA: βάζει το big blind 60
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [4d 6c]
+Cherryballer: fold 
+Mitsunari666: fold 
+fengarib: call 60
+dkaz99: fold 
+Acidsensei: call 30
+AAATATATA: check 
+*** FLOP *** [Ac Ad 3d]
+Acidsensei: check 
+AAATATATA: check 
+fengarib: ποντάρει 60
+Acidsensei: fold 
+AAATATATA: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (60) επιστράφηκε στον fengarib
+fengarib μάζεψε 222 από  pot
+fengarib: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 222 | Rake 0 
+Ταμπλό [Ac Ad 3d]
+Θέση 1: fengarib απεκόμισε (222)
+Θέση 2: dkaz99 (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei (small blind) έκανε fold στο Flop
+Θέση 4: AAATATATA (big blind) έκανε fold στο Flop
+Θέση 5: Cherryballer έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623667585: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο IV (30/60) - 2021/02/10 0:32:47 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:32:47 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #3 είναι το button
+Θέση 1: fengarib (2819 σε chips) 
+Θέση 2: dkaz99 (506 σε chips) 
+Θέση 3: Acidsensei (3970 σε chips) 
+Θέση 4: AAATATATA (2807 σε chips) 
+Θέση 5: Cherryballer (5489 σε chips) 
+Θέση 6: Mitsunari666 (1975 σε chips) 
+fengarib: βάζει το ante 7
+dkaz99: βάζει το ante 7
+Acidsensei: βάζει το ante 7
+AAATATATA: βάζει το ante 7
+Cherryballer: βάζει το ante 7
+Mitsunari666: βάζει το ante 7
+AAATATATA: βάζει το small blind 30
+Cherryballer: βάζει το big blind 60
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [7h 6d]
+Mitsunari666: fold 
+fengarib: fold 
+dkaz99: fold 
+Acidsensei: fold 
+AAATATATA: fold 
+Το ποντάρισμα στο οποίο δεν έγινε call (30) επιστράφηκε στον Cherryballer
+Cherryballer μάζεψε 102 από  pot
+Cherryballer: δε δείχνει το χέρι του 
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 102 | Rake 0 
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 3: Acidsensei (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 4: AAATATATA (small blind) έκανε fold πριν Flop
+Θέση 5: Cherryballer (big blind) απεκόμισε (102)
+Θέση 6: Mitsunari666 έκανε fold πριν Flop (δεν πόνταρε)
+
+
+
+PokerStars Παρτίδα #223623677340: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο IV (30/60) - 2021/02/10 0:33:00 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:33:00 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #4 είναι το button
+Θέση 1: fengarib (2812 σε chips) 
+Θέση 2: dkaz99 (499 σε chips) 
+Θέση 3: Acidsensei (3963 σε chips) 
+Θέση 4: AAATATATA (2770 σε chips) 
+Θέση 5: Cherryballer (5554 σε chips) 
+Θέση 6: Mitsunari666 (1968 σε chips) 
+fengarib: βάζει το ante 7
+dkaz99: βάζει το ante 7
+Acidsensei: βάζει το ante 7
+AAATATATA: βάζει το ante 7
+Cherryballer: βάζει το ante 7
+Mitsunari666: βάζει το ante 7
+Cherryballer: βάζει το small blind 30
+Mitsunari666: βάζει το big blind 60
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [Qd Jc]
+fengarib: fold 
+dkaz99: call 60
+Acidsensei: call 60
+AAATATATA: fold 
+Cherryballer: call 30
+Mitsunari666: check 
+*** FLOP *** [Kd 9h Tc]
+Cherryballer: check 
+Mitsunari666: check 
+dkaz99: check 
+Acidsensei: check 
+*** TURN *** [Kd 9h Tc] [6d]
+Cherryballer: check 
+Mitsunari666: ποντάρει 60
+dkaz99 τελείωσε ο χρόνος
+dkaz99: fold 
+dkaz99 κάθεται εκτός
+dkaz99 επέστρεψε
+Acidsensei: fold 
+Cherryballer: call 60
+*** RIVER *** [Kd 9h Tc 6d] [9d]
+Cherryballer: check 
+Mitsunari666: check 
+*** SHOW DOWN ***
+Cherryballer: δείχνει [6h 8h] (δύο ζευγάρια, Εννιάρια και Εξάρια)
+Mitsunari666: δείχνει [Kc 4c] (δύο ζευγάρια, Ρηγάδες και Εννιάρια)
+Mitsunari666 μάζεψε 402 από  pot
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 402 | Rake 0 
+Ταμπλό [Kd 9h Tc 6d 9d]
+Θέση 1: fengarib έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 2: dkaz99 έκανε fold στο Turn
+Θέση 3: Acidsensei έκανε fold στο Turn
+Θέση 4: AAATATATA (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (small blind)  έδειξε [6h 8h] και έχασε  μέ δύο ζευγάρια, Εννιάρια και Εξάρια
+Θέση 6: Mitsunari666 (big blind)  έδειξε [Kc 4c] και κέρδισε (402)  μέ δύο ζευγάρια, Ρηγάδες και Εννιάρια
+
+
+
+PokerStars Παρτίδα #223623735539: Τουρνουά #3120058440, $2.94+$0.36 USD Hold'em No Limit - Επίπεδο IV (30/60) - 2021/02/10 0:34:22 ΠΡΟΣΑΡΜΟΓΗ [2021/02/09 16:34:22 ET]
+Τραπέζι '3120058440 30' 6-max Η θέση #5 είναι το button
+Θέση 1: fengarib (2805 σε chips) 
+Θέση 2: dkaz99 (432 σε chips) 
+Θέση 3: Acidsensei (3896 σε chips) 
+Θέση 4: AAATATATA (2763 σε chips) 
+Θέση 5: Cherryballer (5427 σε chips) 
+Θέση 6: Mitsunari666 (2243 σε chips) 
+fengarib: βάζει το ante 7
+dkaz99: βάζει το ante 7
+Acidsensei: βάζει το ante 7
+AAATATATA: βάζει το ante 7
+Cherryballer: βάζει το ante 7
+Mitsunari666: βάζει το ante 7
+Mitsunari666: βάζει το small blind 30
+fengarib: βάζει το big blind 60
+*** ΚΡΥΦΑ ΦΥΛΛΑ ***
+Μοίρασε στο dkaz99 [4s 9s]
+dkaz99: call 60
+Acidsensei: call 60
+AAATATATA: fold 
+Cherryballer: fold 
+Mitsunari666: raise 240 σε 300
+fengarib: fold 
+dkaz99: call 240
+Acidsensei: call 240
+*** FLOP *** [7d 4d 2h]
+Mitsunari666: ποντάρει 360
+dkaz99: call 125 και είναι all-in
+Acidsensei: raise 3229 σε 3589 και είναι all-in
+Mitsunari666: call 1576 και είναι all-in
+Το ποντάρισμα στο οποίο δεν έγινε call (1653) επιστράφηκε στον Acidsensei
+*** TURN *** [7d 4d 2h] [8h]
+*** RIVER *** [7d 4d 2h 8h] [9h]
+*** SHOW DOWN ***
+Mitsunari666: δείχνει [8d 9d] (δύο ζευγάρια, Εννιάρια και Οκτάρια)
+Acidsensei: δείχνει [As 4h] (ζευγάρι Τεσσάρια)
+Mitsunari666 μάζεψε 3622 από  επιμέρους pot
+dkaz99: δείχνει [4s 9s] (δύο ζευγάρια, Εννιάρια και Τεσσάρια)
+Mitsunari666 μάζεψε 1377 από  κεντρικό pot
+Ο dkaz99 τελείωσε το τουρνουά
+*** ΣΥΝΟΨΗ ***
+Συνολικό pot 4999 Κύριο pot 1377. Δευτερεύον pot 3622. | Rake 0 
+Ταμπλό [7d 4d 2h 8h 9h]
+Θέση 1: fengarib (big blind) έκανε fold πριν Flop
+Θέση 2: dkaz99  έδειξε [4s 9s] και έχασε  μέ δύο ζευγάρια, Εννιάρια και Τεσσάρια
+Θέση 3: Acidsensei  έδειξε [As 4h] και έχασε  μέ ζευγάρι Τεσσάρια
+Θέση 4: AAATATATA έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 5: Cherryballer (button) έκανε fold πριν Flop (δεν πόνταρε)
+Θέση 6: Mitsunari666 (small blind)  έδειξε [8d 9d] και κέρδισε (4999)  μέ δύο ζευγάρια, Εννιάρια και Οκτάρια
+
+
+
