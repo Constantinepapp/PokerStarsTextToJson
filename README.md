@@ -2,6 +2,7 @@
 
 A txt to json parser for poker stars hand history files.
 
+```json
 {
     players: [
       'fengarib',
@@ -45,3 +46,4 @@ A txt to json parser for poker stars hand history files.
     showDown: undefined,
     summary: [ [Object], [Object], [Object], [Object], [Object], [Object] ]
   },
+```
